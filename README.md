@@ -9,10 +9,13 @@ Trata de um projeto de salas de perguntas em tempo real para diversos fim. Forne
 # Recursos utilizados
 
 > React
+
 > TypeScript
+
 > Sass
 
 > firebase database
+
 > Google Authentication
 
 
