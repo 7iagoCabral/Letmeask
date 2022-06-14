@@ -33,7 +33,7 @@ Crie sua sala e compartilhe o código com usa audiência e gerencia suas pergunt
 - [x] Firebase database
 
 
-# :pushpin: Simples e Facil 
+# :pushpin: Simples e Fácil 
 - Faça login com sua conta do Google e crie sua sala em 30 segundos.
 - Copie o código da sala e compartilhe com sua audiencia!
 - Ideal para transmissões de perguntas e resposta.
@@ -46,7 +46,7 @@ Crie sua sala e compartilhe o código com usa audiência e gerencia suas pergunt
 - Encerre a sala em um clique!
 <img src="https://user-images.githubusercontent.com/97841160/173595947-6036323b-75c9-415e-8440-0851ef08f419.gif" />
 
-# :rocket: Proximas implementações (next level :rocket:)
+# :rocket: Próximas implementações (next level :rocket:)
 
 - [ ] Código da sala em QR code!
 - [ ] Sistema de exclusão de palavras ofensivas
@@ -57,7 +57,7 @@ Crie sua sala e compartilhe o código com usa audiência e gerencia suas pergunt
 
 # :page_with_curl: Sobre o Letmeask
 
-Projeto reproduzido através de uma série de vídeo aulas (NLW) da @rocketseat @diego3g !
+Projeto reproduzido através de uma série de vídeo aulas (NLW) da @rocketseat @diego3g :rocket::rocket:!
 
 
 
